@@ -1,0 +1,17 @@
+﻿  pong.cpp
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(60,17): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(61,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(62,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(63,17): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(76,17): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(77,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(78,19): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(79,17): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(93,15): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(231,7): warning C4244: '=': 'GLsizei' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(232,7): warning C4244: '=': 'GLsizei' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(237,7): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(238,7): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(246,7): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kiran\source\repos\pong\pong\pong.cpp(247,7): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  pong.vcxproj -> C:\Users\kiran\source\repos\pong\x64\Debug\pong.exe
