@@ -1,4 +1,4 @@
-# Pong Game
+# Pong Game - OpenGL
 
 This is a simple recreation of the classic **Pong** game.
 
