@@ -24,3 +24,4 @@ Pong was originally released in **1972** by Atari and is considered one of the f
    ```bash
    git clone https://github.com/your-username/pong-game.git
    cd pong-game
+![opengl-logo-3311576672](https://github.com/user-attachments/assets/f26bfba5-7c86-4587-a646-77c62da31037)
